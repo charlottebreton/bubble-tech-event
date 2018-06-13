@@ -226,12 +226,12 @@
         /*--------------------------
         scrollUp
         ---------------------------- */
-        $.scrollUp({
+        /*$.scrollUp({
             scrollText: '',
             easingType: 'linear',
             scrollSpeed: 900,
             animation: 'fade'
-        });
+        });*/
 
     });
     //dom ready end
