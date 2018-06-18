@@ -15,6 +15,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 111290,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 67370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/assets/js/vendor/map.js",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -40,6 +64,11 @@
 	},
 	"file_history":
 	[
+		"/Users/charlotte/Documents/GitHub/bubble-tech-event/public/assets/css/style.css",
+		"/Users/charlotte/Documents/GitHub/bubble-tech-event/public/assets/js/main.js",
+		"/Users/charlotte/Documents/GitHub/bubble-tech-event/public/assets/scss/responsive.scss",
+		"/Users/charlotte/Documents/GitHub/bubble-tech-event/public/event-table.html",
+		"/Users/charlotte/Documents/GitHub/bubble-tech-event/public/index.html",
 		"/Users/charlotte/Documents/GitHub/bubble-tech-event/README.md",
 		"/Users/charlotte/Desktop/VPN/config.ovpn",
 		"/Users/charlotte/Desktop/resume 3/resume_en_marketing.html",
@@ -153,6 +182,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/charlotte/Documents/GitHub/bubble-tech-event",
 			"/Users/charlotte/Desktop/i18n_All"
 		]
 	},
@@ -161,6 +191,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"second",
+			"seconds",
+			"cdown",
+			"Harman Kardon",
+			"Harman Kardon ",
+			"harman Kardon",
+			"harman gardon",
+			"scr",
+			"scrollup",
+			"Toni Duggan",
+			"Toni Duggan ",
+			"Toni Duggan",
+			"banner-content\n",
+			".\n",
+			"?\n",
 			"Noter Newsvibes",
 			"Si vous appréciez Newsvibes, accepteriez-vous de prendre un moment pour nous noter? Merci pour votre soutien!",
 			"Badge sur l'icône",
@@ -273,24 +318,9 @@
 			"Tapez une URL",
 			"Couleur",
 			"TITRE",
-			"Tapez un titre",
-			"Catégorie",
-			"Flux",
-			"Editer",
-			"ou",
-			"Nouveau ?",
-			"Passwort oublié",
-			"Mot de passe oublié",
-			"Découvrir",
-			"Se connecter",
-			"Menu des articles",
-			"Tapez un mot-clé",
-			"Tapez un mot clé",
-			"Categories",
-			"Flux",
-			"Gestion"
+			"Tapez un titre"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
@@ -429,13 +459,98 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": false
+		"wrap": true
 	},
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 111290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9914,
+								9914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2556.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 67370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17326,
+								17326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 64.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/assets/js/vendor/map.js",
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1740,
+								1740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -495,7 +610,7 @@
 		],
 		"width": 0.0
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
