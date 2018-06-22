@@ -544,6 +544,9 @@ a {
 .bg-error {
   background-image: url(../img/bg/404.jpg); }
 
+.hero-bg-custom {
+  background-image: url(../img/bg/3.jpg); }
+
 /*animation*/
 .animation {
   -webkit-animation-duration: 0.3s;
